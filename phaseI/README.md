@@ -2,7 +2,9 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+<!--!!! Describe the general problem that the project is trying to solve !!! -->
+Budget Travel is meant to help simplify its users’ trip-planning experience by providing an easy-to-understand interface that helps walk them through the process. With Budget Travel, users can make hotel reservations, book flights, and plan activities all in one place.
+
 
 ## Methods
 
