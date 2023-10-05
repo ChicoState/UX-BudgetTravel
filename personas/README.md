@@ -35,3 +35,16 @@ Everyone calls him Structure Steve because he wants everything to be structured 
 
 
 # Scenarios
+
+## The Family Trip (John) 
+- John is planning a family vacation but he wants to plan ahead and have a budget for the trip but he wants a helpful tool that would help him plan the trip within his budget. He wants to be able to find fun family activities and restaurants that he would be able to enjoy with the kids as well as his significant other. He also wants to make sure that if his planned trip is over the budget he knows before he decides on it. 
+
+## An Out of Country Vacation (Cindy) 
+- Cindy has always wanted to travel out of the country, and she’s finally ready to do so. Her most recent trip was when she was 12 and went to Cedar Point with her family. She is excited to create new memories, but she doesn’t know any language other than English, thus she feels limited on where she can go. Since Cindy is going solo and she is a first-time traveler with no trip-planning experience, she feels lost about what she should plan first. 
+
+## Anything works/Indecisive (Jane)
+- Jane would love to go to some place that she hasn’t gone to before, but doesn’t have much of a preference in where she would like to go. It would be nice to have an application that could give her a randomized button. Throughout her stay in the new area, she would love to have a randomized option for things to do and see what she’s feeling in that moment (if she’s up for that specific activity). She would love to have her vacations and ratings saved in case she forgets what she did in those vacations and what to look out for when going to other places.
+
+## Plans on top of plans (Steve) 
+- Steve would like to go to an area that is visited by many tourists with his friends. He believes that even though there may be a lot of people in specific areas, there are different activities that are either hidden or in the outskirts of the tourist areas. He would love to have activity options that are either free or small fee for those in the friend group that are trying to budget their money well. He’s an early riser, but most of his friends tend to sleep in when they get the chance. He would love to have the activity options to have a time frame of when it opens and/or closes in order to be able to properly plan everything out for everyone.
+
