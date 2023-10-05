@@ -1,7 +1,7 @@
 # Wireframes
 
-![Wireframe1](Screenshot 2023-10-05 at 1.05.07 PM.png)
+![Wireframe1](Screenshot2023-10-05at1.05.07PM.jpeg)
 
-![Wireframe2](Screenshot 2023-10-05 at 1.05.20 PM.png)
+![Wireframe2](Screenshot2023-10-05at1.05.20PM.jpeg)
 
-![Wireframe3](Screenshot 2023-10-05 at 1.05.29 PM.png)
+![Wireframe3](Screenshot2023-10-05at1.05.29PM.jpeg)
