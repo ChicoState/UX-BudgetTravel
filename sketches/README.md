@@ -9,9 +9,12 @@ Sketches by Nissa Lieu:
 
 ![nSketch](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/bf389ab5-966e-4938-ad0e-f92430971ae2)
 <br>
+<br>
 Sketches by Gustavo Bravo Corona:
 <br>
-![gSketch](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/3b6fa9cf-a192-49a0-b08f-873060bc6466)
+
+![gSketches](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/9db096ae-2157-40b3-877e-e00b2f744dfd)
+
 <br>
 Final Sketches:
 <br>
