@@ -20,5 +20,15 @@ Final Sketches:
 <br>
 The final sketches are a combination of all the UX Team's ideas. One of the main goals was to have a clear layout for the different tabs (Flights, Hotels, Transportation, and Activities).
 <br>
-![img_7091_720](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/5db77167-3487-47f0-a77e-36b56f7d13a5)
-![img_7093_720](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/975e9e07-eb0e-4dcc-94d2-9029394d7422)
+
+![img_7091_720](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/3b4906be-6ba4-4cc5-a435-c8c7b576d372)
+
+![img_7093_720](https://github.com/ChicoState/UX-BudgetTravel/assets/111808082/dd32ed6c-2c9e-4134-b3fb-2caa0082e58f)
+
+
+
+
+
+
+
+
