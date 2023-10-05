@@ -2,7 +2,7 @@
 
 ![A photo of John, Persona 1](240_F_176507866_yBS7YgVWIKDP2JgNsQfZaBpFuSkDiICX.jpg)
 
-##John
+## John
 
 33 year old Male from San Jose, California
 
@@ -11,7 +11,7 @@ He is a busy working man and wants a break from working in an office ao he decid
 ![A photo of Cindy, Persona 2](240_F_435116287_9UyOk89BLk4Y3zGmmsQ70gQPKpBdQLxP.jpg
 )
 
-##Cindy Ray
+## Cindy Ray
 
 21 year old from Cincinnati, Ohio
 
@@ -19,7 +19,7 @@ A young woman who recently graduated from college with a B.A. in Geography. She 
 
 ![A photo of Jane, Persona 3](240_F_212528953_fw6OrqAfZq9ii4Qbxxa9fBjxhh5eiAcD.jpg)
 
-##Jane Weisz
+## Jane Weisz
 
 25 year old from Silicon Valley, California
 
@@ -27,7 +27,7 @@ An employee who is a workaholic and was given a month of vacation from her corpo
 
 ![A photo of Steve, Persona 4](240_F_167651004_jysoGdijTPxl45zsbblF3nj5ANI3ziHY.jpg)
 
-##Steve
+## Steve
 
 27 year old Male from Honolulu, Hawaii
 
