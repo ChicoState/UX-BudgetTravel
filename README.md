@@ -39,11 +39,11 @@ Traveling the world may seem like an exciting and memorable experience, but what
       - The ability to include how many people will go on a trip
       - Splitting costs among several users
 - <u>Sketches</u> gave a rough idea of how the layout should be:
-  <li>
-    <ul>Separating bookings by type (hotel, transportation, flights, and activities)</ul>
-    <ul>Search for bookings based on user input (location, people going, budget, proximity, and dates)</ul>
-    <ul>Being upfront about pricing by including additional fees in the advertised price</ul>
-  </li>
+  <ul>
+    <li>Separating bookings by type (hotel, transportation, flights, and activities)</li>
+    <li>Search for bookings based on user input (location, people going, budget, proximity, and dates)</li>
+    <li>Being upfront about pricing by including additional fees in the advertised price</li>
+  </ul>
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
