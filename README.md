@@ -1,4 +1,4 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+<!--!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!! -->
 
 # Budget Travel
 <!-- !!!Brief introduction to the project and the problem it is intended to solve!!! -->
@@ -13,7 +13,7 @@ Budget Travel is an application that will be available to many users that are in
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
+<!--!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!! -->
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
