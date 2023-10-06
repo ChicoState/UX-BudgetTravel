@@ -1,9 +1,6 @@
-<!--!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!! -->
-
 # Budget Travel
-<!-- !!!Brief introduction to the project and the problem it is intended to solve!!! -->
 
-Budget Travel is an application that will be available to many users that are in need of help when it comes to planning a trip with a limited budget. We want to make sure that we provide all of the users needs and to make sure that we thrive at a high level in the traveling category for the applications and surpass the other competitors.
+Budget Travel is an application that will be available to many users who are in need of help when it comes to planning a trip with a limited budget. We want to make sure that we provide all of the users' needs and to make sure that we thrive at a high level in the traveling category for the applications and surpass the other competitors.
 
 ## UX Team Members
 
@@ -23,11 +20,7 @@ Budget Travel is an application that will be available to many users that are in
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
-<!--
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!! -->
+
 Traveling the world may seem like an exciting and memorable experience, but what about the planning? With Budget Travel users can efficiently book flights, hotels, transportation, and activities with just a few clicks. We conducted research and analysis on different competitors to understand how best to meet users’ needs and how we can make their experience using Budget Travel stand out amongst similar products on the market. 
  - <u>Competitive analysis</u> of top competitors gave an overview of how best to serve users
       - Clear communication: Users express frustration when they cannot speak to a representative or have a way to resolve issues
