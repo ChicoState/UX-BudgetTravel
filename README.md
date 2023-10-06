@@ -23,11 +23,25 @@ Budjet Travel is an application that will be available to many users that are in
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
-
+<!--
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* !!!as an executive would understand.!!! -->
+Traveling the world may seem like an exciting and memorable experience, but what about the planning? With Budget Travel users can efficiently book flights, hotels, transportation, and activities with just a few clicks. We conducted research and analysis on different competitors to understand how best to meet users’ needs and how we can make their experience using Budget Travel stand out amongst similar products on the market. 
+ - <u>Competitive analysis</u> of top competitors gave an overview of how best to serve users
+      - Clear communication: Users express frustration when they cannot speak to a representative or have a way to resolve issues
+      - History of transactions: Users expressed that bookings were not made even though payment was accepted. 
+ - <u>Heuristic evaluation</u> of a top competitor found that an appealing design that draws the users' attention to important information/data can help users navigate through a website better
+ - <u>Personas and scenarios</u> helped understand who potential users may be and why they would be interested in using Budget Travel:
+      - Being able to plan a budget-friendly trip
+      - Simplifying the trip-planning process
+      - The ability to include how many people will go on a trip
+      - Splitting costs among several users
+- <u>Sketches</u> gave a rough idea of how the layout should be:
+      - Separating bookings by type (hotel, transportation, flights, and activities)
+      - Search for bookings based on user input (location, people going, budget, proximity, and dates)
+      - Being upfront about pricing by including additional fees in the advertised price
 
 [Full phase I report](phaseI/)
 
