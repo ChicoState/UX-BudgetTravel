@@ -3,7 +3,7 @@
 # Budget Travel
 <!-- !!!Brief introduction to the project and the problem it is intended to solve!!! -->
 
-Budjet Travel is an application that will be available to many users that are in need of help when it comes to planning a trip with a limited budget. We want to make sure that we provide all of the users needs and to make sure that we thrive at a high level in the traveling category for the applications and surpass the other competitors.
+Budget Travel is an application that will be available to many users that are in need of help when it comes to planning a trip with a limited budget. We want to make sure that we provide all of the users needs and to make sure that we thrive at a high level in the traveling category for the applications and surpass the other competitors.
 
 ## UX Team Members
 
