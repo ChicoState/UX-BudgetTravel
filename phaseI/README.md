@@ -26,6 +26,8 @@ Based on our research, specifically the competitive analysis, we found that most
 
 Another finding from the competitive analysis is that some competitors were found to have problems concerning canceled flights or reservations. In reviews, users reported that their hotels were never booked despite paying and that they were not refunded. 
 
+From the heuristic analysis, we found that a good website design/layout helps reduce confusion about where to look for certain features or options. Travelocity, the competitor analyzed, has a simple but effective layout. The different pages (Stays, Flights, Cars, Packages, etc) are at the top and they all have similar designs, with how the text fields are set up and how the results show up. 
+
 <!--Another finding is that some competitors added additional fees to users' final purchases. --> 
 
 
