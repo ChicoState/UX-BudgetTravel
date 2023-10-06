@@ -63,4 +63,8 @@ These recommendations will help us shape our future work for Budget Travel. We w
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+<!-- !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
+
+Our competitive analysis focused on a specific set of competitors, and the findings may not represent all of our different competitors out there. 
+The personas and scenarios that we created were created based on our assumptions and research, which might not fully capture the whole different potential users. We also need to make sure that we look for new day to day competitors in the same category and to make sure that we keep our users wants and needs up to date. 
+
