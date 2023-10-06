@@ -21,7 +21,7 @@ Budget Travel is an application that will be available to many users who are in 
 
 **Executive Summary**
 
-
+Traveling the world may seem like an exciting and memorable experience, but what about the planning? With Budget Travel users can efficiently book flights, hotels, transportation, and activities with just a few clicks. We conducted research and analysis on different competitors to understand how best to meet users’ needs and how we can make their experience using Budget Travel stand out amongst similar products on the market. 
  - <u>Competitive analysis</u> of top competitors gave an overview of how best to serve users
       - Clear communication: Users express frustration when they cannot speak to a representative or have a way to resolve issues
       - History of transactions: Users expressed that bookings were not made even though payment was accepted. 
