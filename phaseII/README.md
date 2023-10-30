@@ -2,11 +2,14 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Budget Travel is meant to help simplify its users’ trip-planning experience by providing an easy-to-understand interface that helps walk them through the process. With Budget Travel, users can make hotel reservations, book flights, and plan activities all in one place. By creating and designning wireframes that will help users get an idea of what our application will look like and give them a sence of how it will work with out having the finished product available in their hand.
 
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+
+Cognitive Walkthrough: What we learned from the Cognitive Walkthrough is that a user would like to maybe filter the options available by their budget, and we thought that that was a good idea to implement to our wireframe and would help all of our users. Something we also learned was that maybe adding an average cost of a meal at a restaurant will work with the users budget. Also showing the current or changed Budget. Although our feedback mentioned that there is no login page shown, we felt that it was not necessary to add since we already have a wireframe for logging in. 
+
 
 ## Findings
 
