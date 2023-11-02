@@ -1,6 +1,6 @@
-##Login Wireframe
+## Login Wireframe
 
-#User Login with Email and Password
+# User Login with Email and Password
 
 ![Login in](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/ae4785a0-2dd3-474d-88f9-7c0eeb1eb854)
 
@@ -17,7 +17,7 @@
 User Will be able to login with their Email and Password if either one of the two entries is unrecocnised they will be show a message letting them
 know that the password or email was entered incorrectly or unrecognized. 
 
-#Forgot Password
+# Forgot Password
 
 ![Forgot Password](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/94936314-9726-4abc-a07b-d80f31232d60)
 
