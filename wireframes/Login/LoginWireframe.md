@@ -1,3 +1,6 @@
+##Login Wireframe
+
+#User Login with Email and Password
 
 ![Login in](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/ae4785a0-2dd3-474d-88f9-7c0eeb1eb854)
 
@@ -11,7 +14,10 @@
 
 ![Click Login](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/259d82cf-9f98-4b0e-be10-8b47b86b0987)
 
+User Will be able to login with their Email and Password if either one of the two entries is unrecocnised they will be show a message letting them
+know that the password or email was entered incorrectly or unrecognized. 
 
+#Forgot Password
 
 ![Forgot Password](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/94936314-9726-4abc-a07b-d80f31232d60)
 
@@ -24,3 +30,5 @@
 ![Enter New Password - 2](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/aee3de4e-ba6c-4ed8-aea9-54fdb15cb751)
 
 ![Enter New Password - 3](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/79115d25-17f7-45c3-ade6-4c75b74031c2)
+
+User is able to recover their account if they forgot their password. They will be able to enter an email where they will recive a reset code that will be necessary to link to their account where they will then be able to create a new password.
