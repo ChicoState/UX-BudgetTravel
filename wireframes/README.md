@@ -1,5 +1,5 @@
 # Wireframes
 
-* [Login](Login/)
-* [User Account Overview](UserAccountOverview/LoginWireframe.md/)
+* [Login](Login/LoginWireframe.md/)
+* [User Account Overview](UserAccountOverview/)
 * [Restaurant Rating](RestaurantRating/)
