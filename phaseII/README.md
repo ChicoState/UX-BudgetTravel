@@ -10,6 +10,8 @@ Budget Travel is meant to help simplify its users’ trip-planning experience by
 
 **Cognitive Walkthrough:** What we learned from the Cognitive Walkthrough is that a user would like to maybe filter the options available by their budget, and we thought that that was a good idea to implement to our wireframe and would help all of our users. Something we also learned was that maybe adding an average cost of a meal at a restaurant will work with the users budget. Also showing the current or changed Budget. Although our feedback mentioned that there is no login page shown, we felt that it was not necessary to add since we already have a wireframe for logging in. 
 
+**Informal Feedback:**
+
 
 ## Findings
 
