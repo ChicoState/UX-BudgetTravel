@@ -1,3 +1,4 @@
+## Restaurant Review
 
 ![iPhone 14 Pro Max – 2](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/fba79872-32da-425c-b6d7-43b38f961f70)
 
@@ -5,3 +6,5 @@
 
 ![iPhone 14 Pro Max – 4](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/cbc12efd-fdde-4126-be31-399b40880cf7)
 
+User Will be able to see the reviews of a restaurant left by other people as well. The user will be able to add and create their own
+rating review.
