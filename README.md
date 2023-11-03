@@ -48,8 +48,8 @@ Traveling the world may seem like an exciting and memorable experience, but what
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
-* - Used the sketches we created in Phase I to help model our wireframes 
-* <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
+- Used the sketches we created in Phase I to help model our wireframes 
+<u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
 <ul>
     <li>User Login</li>
     <li>User Sign Up<li>
@@ -58,7 +58,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
     <li>Adding a Budget</li>
     <li>Creating/Editing Trips</li>
 </ul>
-*<u>Cognitive walkthroughs</u> were conducted with the help of two classmates. They were given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. Our classmates were meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once our classmates completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
+<u>Cognitive walkthroughs</u> were conducted with the help of two classmates. They were given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. Our classmates were meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once our classmates completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
 <ul>
  <li> Users want to filter options by their specified budget, not just price</li>
  <li>We should clarify what interactions our wireframes are modeled after</li>
