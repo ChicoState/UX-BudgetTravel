@@ -43,7 +43,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
 
 **Executive Summary**
 
-- Used the sketches we created in Phase I to help model our wireframes 
+Used the sketches we created in Phase I to help model our wireframes 
 <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
 <ul>
     <li>User Login</li>
