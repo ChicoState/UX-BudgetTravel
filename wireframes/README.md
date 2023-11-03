@@ -5,6 +5,10 @@
   
 * [User Account Overview](UserAccountOverview/UserAccountOverview.md)
   When logged in the user will be able to Look at their account overview pressing the settings where they will be able to see their saved credit cards in their account, look at their saved/liked selections, they will be able to look at their bookings as well and will be able to choose any of the different helping options look at the guide lines and finalt change accounts of simply just log out.
+
+* [Adding Location Filter](AddingLocation/AddingLocation.md)
+  In the Homescreen the user will have options to eihter Find a Flight, Book a Hotel, and Restaurant Resorvations. The user will also be able to add a location that will filter all of the restaurants and hotels near the user to show them the nearest one and less espensive. They will also be able to use other filer options (Price, Ratings, and a filter that will show them results under their added budget)
+  
 * [Restaurant Rating](RestaurantRating/RestaurantRating.md)
   When the User is looking for a restaurant and wants to look for a restauran but the user wants to be able to see the reviews of a restaurant left by other people as well. The user will be able to add and create their own rating review.
   
