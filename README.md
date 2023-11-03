@@ -47,12 +47,40 @@ Traveling the world may seem like an exciting and memorable experience, but what
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
-* 
-* <u>Wireframes</u> created wireframes based on all of our user expectations, senarios, and personas
-       - Used the sketches we created in our Phase I to have a start  with out wireframes
-* <u>Cognative Feedback</u> recived feedback from classmates where we provided a wireframe and senario
-  and they needed to act as the user who is trying to represent the senario with the wireframe this
-  provided some findings that helped us improve our wireframes. 
+
+* - Used the sketches we created in Phase I to help model our wireframes 
+* <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
+*
+* <ul>
+    <li>User Login</li>
+    <li>User Sign Up<li>
+    <li>Flight Booking</li>
+    <li>Checking For Nearby Restaurants</li>
+    <li>Adding a Budget</li>
+    <li>Creating/Editing Trips</li>
+</ul>
+*<u>Cognitive walkthroughs</u> were conducted with the help of two classmates. They were given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. Our classmates were meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once our classmates completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
+<ul>
+ <li> Users want to filter options by their specified budget, not just price</li>
+ <li>We should clarify what interactions our wireframes are modeled after</li>
+ <li>The user's budget should be visible and easy to access</li>
+</ul>
+The SE team presented what they created and received <u>Informal Feedback</u>, which let us know what else we can implement into Budget Travel (and possible wireframes to create) as well as how to better the users' experience
+<ul>
+ <li>Features to add</li>
+ <ul>
+  <li>available activity</li>
+  <li>destinations</li>
+  <li>other user activity</li>
+  <li>breakdown activities based on the budget</li>
+  <li><strong>create trips</strong></li>
+ </ul>
+ <ul>
+  <li> Do not put a sales pitch on the launch page</li>
+  <li><li> The users prefer to have a login/signup page as the first screen they see</li></li>
+ </ul>
+</ul>
+   
 
 [Full phase II report](phaseII/)
 
