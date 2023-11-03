@@ -47,6 +47,12 @@ Traveling the world may seem like an exciting and memorable experience, but what
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
+* 
+* <u>Wireframes</u> created wireframes based on all of our user expectations, senarios, and personas
+       - Used the sketches we created in our Phase I to have a start  with out wireframes
+* <u>Cognative Feedback</u> recived feedback from classmates where we provided a wireframe and senario
+  and they needed to act as the user who is trying to represent the senario with the wireframe this
+  provided some findings that helped us improve our wireframes. 
 
 [Full phase II report](phaseII/)
 
