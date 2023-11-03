@@ -50,8 +50,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
 
 * - Used the sketches we created in Phase I to help model our wireframes 
 * <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
-*
-* <ul>
+<ul>
     <li>User Login</li>
     <li>User Sign Up<li>
     <li>Flight Booking</li>
@@ -75,9 +74,9 @@ The SE team presented what they created and received <u>Informal Feedback</u>, w
   <li>breakdown activities based on the budget</li>
   <li><strong>create trips</strong></li>
  </ul>
+ <li>Ideas to discard</li>
  <ul>
   <li> Do not put a sales pitch on the launch page</li>
-  <li><li> The users prefer to have a login/signup page as the first screen they see</li></li>
  </ul>
 </ul>
    
