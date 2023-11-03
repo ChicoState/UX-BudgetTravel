@@ -43,11 +43,6 @@ Traveling the world may seem like an exciting and memorable experience, but what
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
 - Used the sketches we created in Phase I to help model our wireframes 
 <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
 <ul>
