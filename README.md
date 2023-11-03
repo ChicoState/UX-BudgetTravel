@@ -45,36 +45,25 @@ Traveling the world may seem like an exciting and memorable experience, but what
 
 - We modeled our wireframes after the sketches we created in Phase I 
 - <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
-<ul>
-    <li>User Login</li>
-    <li>User Sign Up<li>
-    <li>Flight Booking</li>
-    <li>Checking For Nearby Restaurants</li>
-    <li>Adding a Budget</li>
-    <li>Creating/Editing Trips</li>
-</ul>
+  - User Login
+  - User Sign Up
+  - Flight Booking
+  - Checking for Nearby Restaurants
+  - Adding a Budget
+  - Creating/Editing Trips
 - <u>Cognitive walkthroughs</u> were conducted with the help of two classmates. They were given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. Our classmates were meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once our classmates completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
-<ul>
- <li> Users want to filter options by their specified budget, not just price</li>
- <li>We should clarify what interactions our wireframes are modeled after</li>
- <li>The user's budget should be visible and easy to access</li>
-</ul>
-The SE team presented what they created and received <u>Informal Feedback</u>, which let us know what else we can implement into Budget Travel (and possible wireframes to create) as well as how to better the users' experience
-<ul>
- <li>Features to add</li>
- <ul>
-  <li>available activity</li>
-  <li>destinations</li>
-  <li>other user activity</li>
-  <li>breakdown activities based on the budget</li>
-  <li><strong>create trips</strong></li>
- </ul>
- <li>Ideas to discard</li>
- <ul>
-  <li> Do not put a sales pitch on the launch page</li>
- </ul>
-</ul>
-   
+  - Users want to filter options by their specified budget, not just price
+  - We should clarify what interactions our wireframes are modeled after
+  - The user's budget should be visible and easy to access
+- The SE team presented what they created and received <u>Informal Feedback</u>, which let us know what else we can implement into Budget Travel (and possible wireframes to create) as well as how to better the users' experience
+  - Features to add
+    - Available activity
+    - Destinations
+    - Other user activity
+    - Breakdown activities based on the budget
+    - <strong>Create trips</strong>
+  - Ideas to discard
+    - Do not put sales pitch on the launch page   
 
 [Full phase II report](phaseII/)
 
