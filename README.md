@@ -42,6 +42,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+Budget Travel has many capabilities, ranging from creating trips, showing a user's budget, booking flights, and more. Wireframes were created to showcase these interactions, one of which was evaluated by another UX designer. The feedback given on the Checking For Nearby Restaurants wireframe helped Budget Travel’s UX team know how much detail should be included in the wireframes, as well as how to limit confusion by making each step clear. In addition, the informal feedback given to the SE team helped give a general idea of what features to implement and what ideas to shift away from.
 
 - We modeled our wireframes after the sketches we created in Phase I 
 - <u>Wireframes</u> were created based on expected user interactions, which were used to guide the SE team and give a general idea of Budget Travel's capabilities. Our completed wireframes model the following interactions:
@@ -51,7 +52,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
   - Checking for Nearby Restaurants
   - Adding a Budget
   - Creating/Editing Trips
-- <u>Cognitive walkthroughs</u> were conducted with the help of two classmates. They were given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. Our classmates were meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once our classmates completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
+- <u>Cognitive walkthroughs</u> were conducted with the help of a fellow UX designer, who was given a description of our persona “John” and an accompanying scenario “The Family Trip” to better understand the purpose of our wireframe. The UX designer was meant to act as “John” and attempt to complete the task “search for nearby restaurants”. Once the UX designer completed their tasks, they provided feedback based on each step they took. Based on the feedback we received, we concluded that:
   - Users want to filter options by their specified budget, not just price
   - We should clarify what interactions our wireframes are modeled after
   - The user's budget should be visible and easy to access
@@ -63,7 +64,7 @@ Traveling the world may seem like an exciting and memorable experience, but what
     - Breakdown activities based on the budget
     - <strong>Create trips</strong>
   - Ideas to discard
-    - Do not put sales pitch on the launch page   
+    - Do not put the sales pitch on the launch page   
 
 [Full phase II report](phaseII/)
 
