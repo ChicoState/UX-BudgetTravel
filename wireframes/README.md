@@ -1,19 +1,19 @@
 # Wireframes
 
 * [Login](Login/LoginWireframe.md)
-  User Will be able to login with their Email and Password if either one of the two entries is unrecocnised they will be show a message letting them   know that the password or email was entered incorrectly or unrecognized. User is able to recover their account if they forgot their password. They will be able to enter an email where they will recive a reset code that will be necessary to link to their account where they will then be able to create a new password.
+  Users will be able to log in with their Email and Password if either one of the two entries is unrecognized they will be shown a message letting them know that the password or email was entered incorrectly or unrecognized. User is able to recover their account if they forget their password. They will be able to enter an email where they will receive a reset code that will be necessary to link to their account where they will then be able to create a new password.
   
 * [User Account Overview](UserAccountOverview/UserAccountOverview.md)
-  When logged in the user will be able to Look at their account overview pressing the settings where they will be able to see their saved credit cards in their account, look at their saved/liked selections, they will be able to look at their bookings as well and will be able to choose any of the different helping options look at the guide lines and finalt change accounts of simply just log out.
+  When logged in the user will be able to Look at their account overview by pressing the settings icon. Possible actions include: being able to view their saved credit cards, looking at saved/liked selections, looking at previous bookings, choosing any of the different help options, looking at the guidelines, and changing accounts by simply logging out.
 
 * [Adding Location Filter](AddingLocation/AddingLocation.md)
-  In the Homescreen the user will have options to eihter Find a Flight, Book a Hotel, and Restaurant Resorvations. The user will also be able to add a location that will filter all of the restaurants and hotels near the user to show them the nearest one and less espensive. They will also be able to use other filer options (Price, Ratings, and a filter that will show them results under their added budget)
+  In the Homescreen the user will have options to either Find a Flight, Book a Hotel, or Restaurant Reservations. The user will also be able to add a location that will filter all of the restaurants and hotels near the user to show them the nearest and least expensive ones. They will also be able to use other filter options (Price, Ratings, and a filter that will show them results under their added budget)
   
 * [Restaurant Rating](RestaurantRating/RestaurantRating.md)
-  When the User is looking for a restaurant and wants to look for a restauran but the user wants to be able to see the reviews of a restaurant left by other people as well. The user will be able to add and create their own rating review.
+  When the User is looking for a restaurant and wants to be able to see the reviews by other people. Additionally, the user will be able to add and create their own reviews.
   
 * [Creating, Editing, adding Budget](Creating,Editing,addingBudget/CreatingandEditingtrips.md)
-  When the user is also logged in thy will be able to Create a new trip, Edit a Saved/Unfinished trip, Look at previous trips, and add their Budget for their trip.
+  When the user is also logged in they will be able to Create a new trip, Edit a Saved/Unfinished trip, Look at previous trips, and add their Budget for their trip.
 
 * [Booking A Flight](BookingAFlight/BookingAFlight.md)
-  When the the user is at the home screemafter logging in and the user then decided to book a fligh. The user will then need to enter a Departing and Arriving destination and A deprarting Date and Retun Date. Once the required entries are in the user will be show a list of different flights with the different flight times, price, and certain Airline as well. Once the User Decides which flight they are interested on they will be able to book a flight and recive a successful message of their booking.
+  When the user is on the home screen and wants to navigate to through the app in order to book a flight. The user will then need to enter a Departing and Arriving destination and A Departing Date and Return Date. Once the required entries are filled, the user will be shown a list of different flights with different flight times, prices, and certain airlines as well. Once the User decides which flight they are interested in, they will be able to book a flight and receive a "success" message of their booking.
