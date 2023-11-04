@@ -14,3 +14,6 @@
   
 * [Creating, Editing, adding Budget](Creating,Editing,addingBudget/CreatingandEditingtrips.md)
   When the user is also logged in thy will be able to Create a new trip, Edit a Saved/Unfinished trip, Look at previous trips, and add their Budget for their trip.
+
+* [Booking A Flight](BookingAFlight/BookingAFlight.md)
+  When the the user is at the home screemafter logging in and the user then decided to book a fligh. The user will then need to enter a Departing and Arriving destination and A deprarting Date and Retun Date. Once the required entries are in the user will be show a list of different flights with the different flight times, price, and certain Airline as well. Once the User Decides which flight they are interested on they will be able to book a flight and recive a successful message of their booking.
