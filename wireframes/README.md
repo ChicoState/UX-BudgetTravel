@@ -21,3 +21,5 @@ Users can create an account if they do not already have one. They will be prompt
 
 * [Booking A Flight](BookingAFlight/BookingAFlight.md)
   When the user is on the home screen and wants to navigate to through the app in order to book a flight. The user will then need to enter a Departing and Arriving destination and A Departing Date and Return Date. Once the required entries are filled, the user will be shown a list of different flights with different flight times, prices, and certain airlines as well. Once the User decides which flight they are interested in, they will be able to book a flight and receive a "success" message of their booking.
+
+* [Sign Up](SignIn/SignIn.md)
