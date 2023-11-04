@@ -1,5 +1,7 @@
 ## Booking a Flight
 
+![Choosing a Flight](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/49340396-6567-4b3c-9a1d-e699dee142eb)
+
 ![Choosing a Flight -1](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/f2215d74-44b1-46a0-995b-d5302bb34ebe)
 
 ![Choosing a Flight 2](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/7d88390b-1232-4b56-882e-7afc0384f816)
@@ -29,6 +31,3 @@
 ![Choosing a Flight 14 – 1](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/e3b5d675-35c4-4e2a-ab5e-19a5a1378a15)
 
 ![Choosing a Flight 14](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/4da7637c-6004-4cc4-828b-f8b6ee0fc8e2)
-
-![Choosing a Flight](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/49340396-6567-4b3c-9a1d-e699dee142eb)
-
