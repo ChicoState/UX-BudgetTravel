@@ -6,8 +6,6 @@ Budget Travel is meant to help simplify its users’ trip-planning experience by
 
 ## Methods
 
-!!! Describe the research methods you used to discover new insights and explain the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-
 **Cognitive Walkthrough:** 
 For our research method, we got a fellow UX designer to conduct a cognitive walkthrough on one of our wireframes. The wireframe we decided to get feedback on was “Find Nearby Restaurants”. We included our persona “John” and a scenario to help the UX designer get a  better understanding of what interaction the wireframe is meant to encapsulate. The cognitive walkthrough was done to get feedback on how we can improve our wireframes and Budget Travel’s overall design in order to minimize confusion and give users a better experience. 
 
@@ -45,4 +43,8 @@ Some new discoveries derived from the **Informal Feedback** is that the desire t
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+For our Cognitive Walkthrough it only involved one UX designer providing feedback, but while this can be valuable it represents a single perspective. It may not capture the full range of potential user experiences and preferences. A more comprehensive study involving multiple designers or actual users could provide a broader understanding. Usability testing with real users in realistic scenarios can provide more concrete insights into how users interact with the application and identify usability issues. Finaly something that we need to take into considerations is that user preferences change over time, what users desire today may not be the same in the future so continuous research and updates to the design are necessary to remain relevant.
+
+
+
+
