@@ -3,6 +3,9 @@
 * [Login](Login/LoginWireframe.md)
   Users will be able to log in with their Email and Password if either one of the two entries is unrecognized they will be shown a message letting them know that the password or email was entered incorrectly or unrecognized. User is able to recover their account if they forget their password. They will be able to enter an email where they will receive a reset code that will be necessary to link to their account where they will then be able to create a new password.
   
+* [Sign up.pdf](https://github.com/ChicoState/UX-BudgetTravel/files/13255841/signUpWireframe.pdf)
+Users can create an account if they do not already have one. They will be prompted to enter an email address and a password.
+
 * [User Account Overview](UserAccountOverview/UserAccountOverview.md)
   When logged in the user will be able to Look at their account overview by pressing the settings icon. Possible actions include: being able to view their saved credit cards, looking at saved/liked selections, looking at previous bookings, choosing any of the different help options, looking at the guidelines, and changing accounts by simply logging out.
 
