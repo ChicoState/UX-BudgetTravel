@@ -2,15 +2,21 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Budget Travel aims to make a simple and efficient road trip planning process for users by providing an understandable interface that helps walk them through the process. Through Budget Travel, users can  arrange road trips, plan stops during their road trips, hotel accommodations, book flights, and plan activities within one platform. The creation and design of our prototypes are based on the wireframes that we created to provide users with a comprehensive visualization of the application's layout and functionality, offering a preview of the user experience before the final product is accessible, thus enhancing their comprehension of its functionality. 
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+# Pilot Test
+
+# Usability Testing:
+
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+After running the **Usability Tests** we were able to get feedback from (n = 6) participants. 
+
+<img src="[/assets/IMG_6157.jpeg](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17)" alt="graph" width="400" height="300">
+
 
 ## Conclusions
 
