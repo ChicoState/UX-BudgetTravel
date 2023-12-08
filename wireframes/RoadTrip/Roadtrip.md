@@ -12,6 +12,8 @@
 
 ![iPhone 14 Pro Max – 10](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/72c1b3c0-0e4a-483a-85e2-b45c3917079b)
 
+![iPhone 14 Pro Max – 12](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/7e03883a-7fe0-495d-86d3-e429585decd6)
+
 ![iPhone 14 Pro Max – 11](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/ff307333-2d14-4c4d-a7f7-81534fd1146d)
 
 ![iPhone 14 Pro Max – 15](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/38649b38-509f-4254-b113-a3b4e6666cb9)
