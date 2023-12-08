@@ -13,7 +13,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ## Findings
 
-After running the **Usability Tests** we were able to get feedback from (n = 6) participants. 
+After running the **Usability Tests** we were able to get feedback from (n = 6) participants with a rating of how difficult each task was 1 being difficult and 5 being easy. When gathering all of the ratings given by each participant we were able to insert them into a graph that allowed us to see the ratings from each participant for all of the 3 tasks with all of the participants giving them a rating of 5. We were happy with our results being able to see that all of the participants didn't struggle in a single task and were satisfied with the prototype.  
 
 <img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
 
