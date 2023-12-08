@@ -81,6 +81,10 @@ Budget Travel is created to be an easy-to-use and easy-to-understand application
   - Creating/Editing Trips
   - Road Trip Planning
 
+- <u>Pilot Test</u>
+
+- <u>Usability Testing</u>
+
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
