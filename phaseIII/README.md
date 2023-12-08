@@ -11,6 +11,14 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 ### Usability Testing:
 
 #### Task 1
+We would like you to imagine you already have an account created with us so you log in to your account. Your family wants to plan a road trip to Disneyland Adventure in Los Angeles. So you create a new Road Trip To Disney and you have a certain amount of money saved for the trip but on your drive there you want to make some stops to rest, eat, and visit. After adding your budget and you finished make sure you save all of your Road Trip information. Remember to speak out loud and walk me through how you would create that new trip to Disneyland with your family with a certain budget and how you choose your selected stops.
+
+#### Task 3
+We would like you to now go into the saved trips you have in your account you want to change the number of people that are going and you also want to change the budget after adding more people. You also want to change your destination by choosing a different endpoint and then change or keep your same stops. We would also like you to speak out loud and walk me through the ways you move through the prototype to accomplish the task.
+
+
+#### Task 3
+We would like you to log out of your account and act like you forgot your password. Speak out loud and walk me through the ways you move through the prototype to accomplish the task.
 
 
 ## Findings
