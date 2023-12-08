@@ -6,9 +6,9 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ## Methods
 
-# Pilot Test
+### Pilot Test
 
-# Usability Testing:
+### Usability Testing:
 
 
 ## Findings
