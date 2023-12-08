@@ -71,6 +71,7 @@ Budget Travel has many capabilities, ranging from creating trips, showing a user
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
+Budget Travel is created to be an easy-to-use and easy-to-understand application having a wide amount of options to customize a Trip. Once we had the wireframes all created to showcase the different interactions, we were able to move forward and generate a functioning prototype involving those wireframes and interactions. For the Usability Test, we had 3 different tasks that we would assign to the participants to see how difficult it was to achieve them. The feedback given from the Usability Tests helped us understand how well we were able to map a mental model for a user when they were asked to complete each task. We were able to collect more feedback about each participant by asking them multiple questions a the end of the test to be able to further improve our application.
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
