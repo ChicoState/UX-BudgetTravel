@@ -15,7 +15,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 After running the **Usability Tests** we were able to get feedback from (n = 6) participants. 
 
-<img src="[/assets/IMG_6157.jpeg](https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17)" alt="graph" width="400" height="300">
+<img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
 
 
 ## Conclusions
