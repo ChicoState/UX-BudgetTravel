@@ -25,5 +25,5 @@ Users can create an account if they do not already have one. They will be prompt
 * [Sign Up](SignIn/SignIn.md)
   When a new user wants to create an account and wants to Sign Up they will be required to enter an Email and if the email they typed in is already part of an existing account they will receive a message about the email already being associated with an account the user will also need to create a password and if the password is too weak they will be told to try a new password that is not too simple. Finally, they will be able to see a screen that notifies their account has successfully been created. 
 
-* [Road Trip](wireframes/RoadTrip/Roadtrip.md)
+* [Road Trip](RoadTrip/Roadtrip.md)
   When the user is planning to take a road trip to a specific location the user is able to enter the specific location they plan on driving and have the opportunity to add a specific budget for the trip. The user will be able to add certain stops that they would like to visit or add to their trip where they will be able to see the ratings of each different stop and the average price ranges as well to help them stay below their budget.
