@@ -15,7 +15,7 @@ Budget Travel is an application that will be available to many users who are in 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](Protoype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
