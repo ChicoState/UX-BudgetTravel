@@ -8,10 +8,13 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Pilot Test
 
-### Usability Testing:
+
+### Usability Testing & Prototypes:
+
+Our Protocol was created to follow 3 different tasks. We made our prototypes to be interactive to allow the user to click and imagine what they were using for the finished product. For the usability test, we also asked the participants to "Think Aloud" to give us an idea of what they are thinking when interacting with the prototype and where they get confused or stuck.
 
 #### Task 1
-We would like you to imagine you already have an account created with us so you log in to your account. Your family wants to plan a road trip to Disneyland Adventure in Los Angeles. So you create a new Road Trip To Disney and you have a certain amount of money saved for the trip but on your drive there you want to make some stops to rest, eat, and visit. After adding your budget and you finished make sure you save all of your Road Trip information. Remember to speak out loud and walk me through how you would create that new trip to Disneyland with your family with a certain budget and how you choose your selected stops.
+We would like you to imagine you already have an account created with us so you log in to your account. Your family wants to plan a road trip to Disneyland Adventure in Los Angeles. So you create a new Road Trip To Disney and you have a certain amount of money saved for the trip but on your drive there you want to make some stops to rest, eat, and visit. After you add your budget and you finished make sure you save all of your Road Trip information. Remember to speak out loud and walk me through how you would create that new trip to Disneyland with your family with a certain budget and how you choose your selected stops.
 
 For **Task 1** what we were looking for was to see how the user moved through the application to be able to complete and create a new Road Trip add a Budget, add a final destination, and be able to add certain stops to their Road Trip.
 
@@ -31,11 +34,15 @@ After running the **Usability Tests** we were able to get feedback from (n = 6) 
 
 <img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
 
+Each participant was asked 
+
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. This section includes the new design recommendations based on the latest user insights. !!!
+
+Recommendations from participants who were not in the prototype:
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+!!! Considerations and/or limitations to your chosen methods and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
