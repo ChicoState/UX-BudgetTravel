@@ -9,7 +9,53 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 ### Pilot Test
 
 
-### Usability Testing & Prototypes:
+### Usability Testing:
+
+Our Usability test or main objectives were to make Budget Travel users have a memorable experience that differs from other vacation planning websites.
+
+#### Screening
+
+* People who are a good fit:
+* People who have a strict budget
+* People who have no budget, but would like to save money
+* People who are 18+ years old
+* People who have never gone on vacation 
+* People who travel day to day for business work looking for cheap travel prices
+* People who have gone on multiple vacations (experienced travelers)
+* People who want to keep track of the flights, hotel stays, and activities they have gone to as well as their ratings (public or private)
+* People who want suggestions on what activities they could do and what’s going on during their stay I.e. concerts, park festivals/events, etc.
+* People who don’t use technology often
+* If budget travel is simple enough for them to understand, then others who are more versed with technology will likely have an easier time understanding what to do
+
+#### People who are a bad fit:
+* Children (under 18)
+* People who don't like to travel
+* People who don't care about a Budget when traveling
+
+#### Study Design
+
+##### - Within-subject design
+We want users to interact with the competitor (Travelocity) and with ours
+There are many apps like Budget Travel, so we want to know how to stand out
+If the competitor is better, we want to know what we can improve on
+If the competitor is “worse” we want to see what we can avoid
+A setback is that users may get testing fatigue
+
+The order of the products should be randomized
+By randomizing the order, it becomes easier to compare how users interacted with the different products
+There is more information available
+Users may have certain expectations for their interactions based on the previous product they used
+
+
+##### - Think-aloud protocol
+By having a user verbally go through the steps they take, they may give information that they wouldn’t otherwise think about
+Such as their expectations
+What they are looking for (“I want to find the filter button”)
+Their reasonings (“I want to edit my trip, so I’m going to my profile to see my recent history.”)
+
+
+
+### Prototypes:
 
 Our Protocol was created to follow 3 different tasks. We made our prototypes to be interactive to allow the user to click and imagine what they were using for the finished product. For the usability test, we also asked the participants to "Think Aloud" to give us an idea of what they are thinking when interacting with the prototype and where they get confused or stuck.
 
@@ -34,7 +80,6 @@ After running the **Usability Tests** we were able to get feedback from (n = 6) 
 
 <img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
 
-Each participant was asked 
 
 
 ## Conclusions
