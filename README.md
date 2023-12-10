@@ -4,7 +4,7 @@ Budget Travel is an application that will be available to many users who are in 
 
 ## UX Team Members
 
-* **[Nissa Lieu](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Nissa Lieu](https://usabilityengineering.github.io/ux-portfolio-NissaLieu/)** - Created User Stories, Created Personas and Scenarios, Created Wireframes, Created a Minimum Viable Product, Researched competitors, Performed Heuristic Analysis and Competitive Analysis, Moderated pilot tests, Created data entries for our pilot tests.
 * **[Paulina Rosales](https://usabilityengineering.github.io/ux-portfolio-rosalep/)** - Created some User Stories, created some Personas and Scenarios, helped make sketches, helped plan and make a Wireframe (from a User Story), helped research Competitors and performed a Heuristic Analysis as well as Competitive Analysis. 
 * **[Gustavo Bravo Corona](https://github.com/UsabilityEngineering/ux-portfolio-gabravocorona)** - Created User Stories, Created Personas And Scenarios, Did some Competitive analysis and Demographics, Created a Minimum Variable Product/Sketch, Created A Wireframe.
 
