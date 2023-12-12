@@ -11,11 +11,11 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Usability Testing:
 
-Our Usability test or main objectives were to make Budget Travel users have a memorable experience that differs from other vacation planning websites.
+Our Usability test or main objectives were to make Budget Travel users have a memorable experience that differs from other vacation planning websites. Our usability testing was designed to focus on our user interaction, preferences, and expectations. By understanding the needs of our diverse user base, encompassing individuals with varied budget constraints, travel experiences, technological proficiency, and distinct travel motivations, we sought to enhance the user journey through Budget Travel's interface. We decided to focus on some specific screening.
 
 #### Screening
+People who are a good fit:
 
-* People who are a good fit:
 * People who have a strict budget
 * People who have no budget, but would like to save money
 * People who are 18+ years old
@@ -27,32 +27,13 @@ Our Usability test or main objectives were to make Budget Travel users have a me
 * People who don’t use technology often
 * If budget travel is simple enough for them to understand, then others who are more versed with technology will likely have an easier time understanding what to do
 
-#### People who are a bad fit:
-* Children (under 18)
-* People who don't like to travel
-* People who don't care about a Budget when traveling
-
-#### Study Design
-
-##### - Within-subject design
-We want users to interact with the competitor (Travelocity) and with ours
-There are many apps like Budget Travel, so we want to know how to stand out
-If the competitor is better, we want to know what we can improve on
-If the competitor is “worse” we want to see what we can avoid
-A setback is that users may get testing fatigue
-
-The order of the products should be randomized
-By randomizing the order, it becomes easier to compare how users interacted with the different products
-There is more information available
-Users may have certain expectations for their interactions based on the previous product they used
-
+We also decided to use the Think-aloud protocol in our Unit testing to provide us a better guidance on what the user is thinking and how they move through the application to be able to figure out where they struggle to move to the next step that causes them not to finish the tasks. 
 
 ##### - Think-aloud protocol
-By having a user verbally go through the steps they take, they may give information that they wouldn’t otherwise think about
-Such as their expectations
-What they are looking for (“I want to find the filter button”)
-Their reasonings (“I want to edit my trip, so I’m going to my profile to see my recent history.”)
-
+* By having a user verbally go through the steps they take, they may give information that they wouldn’t otherwise think about
+* Such as their expectations
+* What they are looking for (“I want to find the filter button”)
+* Their reasonings (“I want to edit my trip, so I’m going to my profile to see my recent history.”)
 
 
 ### Prototypes:
@@ -76,7 +57,7 @@ For **Task 3** we wanted to see the users interact with the forgot password func
 
 ## Findings
 
-After running the **Usability Tests** we were able to get feedback from (n = 6) participants with a rating of how difficult each task was 1 being difficult and 5 being easy. When gathering all of the ratings given by each participant we were able to insert them into a graph that allowed us to see the ratings from each participant for all of the 3 tasks with all of the participants giving them a rating of 5. We were happy with our results being able to see that all of the participants didn't struggle in a single task and were satisfied with the prototype.  
+After running the **Usability Tests** we got feedback from (n = 6) participants with a rating of how difficult each task was 1 being difficult and 5 being easy. When gathering all of the ratings given by each participant we were able to insert them into a graph that allowed us to see the ratings from each participant for all of the 3 tasks with all of the participants giving them a rating of 5. We were happy with our results being able to see that all of the participants didn't struggle in a single task and were satisfied with the prototype.  
 
 <img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
 
