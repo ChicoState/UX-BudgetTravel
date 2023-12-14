@@ -124,7 +124,7 @@ After running the **Usability Tests** we got feedback from (n = 6) participants 
 
 ## Conclusions
 
-We found that many of our pilot testers said that our design was straightforward and followed traditional layouts making it very learnable and effective. In conclusion, after running the usability tests and having our participants complete our protocol and interact with our prototype we were able to find out that our prototype is learnable and effective for those who have had experience with technology. It is recommended that we find users who are more diverse in background  rather than strictly usability engineering Chico State students.
+We found that many of our pilot testers said that our design was straightforward and followed traditional layouts making it very learnable and effective. In conclusion, after running the usability tests and having our participants complete our protocol and interact with our prototype we were able to find out that our prototype is learnable and effective for those who have had experience with technology. We were able to get feedback on where we could improve our application to be able to achieve the participant's needs. It is recommended that we find users who are more diverse in background rather than strictly usability engineering Chico State students.
 
 ## Caveats
 
