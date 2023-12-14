@@ -59,6 +59,8 @@ We would like you to log out of your account and act like you forgot your passwo
 
 For **Task 3** we wanted to see the users interact with the forgot password function to see how they might struggle if they were ever needed to recover their account when they forgot their password.
 
+*[LINK to our Spreadsheet](https://docs.google.com/spreadsheets/d/1QYqLmSUBRmI_H3b12fXRkaMhqszQXaem5O1Rmha35hU/edit?usp=sharing)
+
 ## Findings
 
 After running the **Usability Tests** we got feedback from (n = 6) participants with a rating of how difficult each task was 1 being difficult and 5 being easy. When gathering all of the ratings given by each participant we were able to insert them into a graph that allowed us to see the ratings from each participant for all of the 3 tasks with all of the participants giving them a rating of 5. We were happy with our results being able to see that all of the participants didn't struggle in a single task and were satisfied with the prototype.  
