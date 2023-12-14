@@ -13,7 +13,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 Protocol
 
-<b>Background Information</b>
+### Background Information
 
 What websites did you use to plan out your trip?
 - This question was meant to get a better understanding of who Budget Travel’s top competitors are. 
@@ -30,7 +30,8 @@ What were some frustrations you had with the process?
 - This question is to see what part of the trip planning process is the most frustrating for participants. 
 - This will help the UX team find ways to improve the user’s experience and know what should be avoided. 
 
-<b>Debrief Questions</b>
+### Debrief Questions
+
 Overall, what did you like most about [Budget Travel]?
 - This question aims to find out what participants liked the most about Budget Travel. 
 - This can help the UX team make Budget Travel memorable and attract more users.
