@@ -8,6 +8,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Pilot Test
 
+*[LINK to Protocol](https://docs.google.com/document/d/1rynP3tDxub7dZrE_FhyDSwxFnm1AQ-mu_9Rs6nnOFTw/edit?usp=sharing)
 
 ### Usability Testing:
 
