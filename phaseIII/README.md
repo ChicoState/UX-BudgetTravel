@@ -8,11 +8,11 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Pilot Test
 
-### Protocol
+#### Protocol
 
 *[LINK to Protocol PDF](../Protocol/BudgetTravelx17FinalProtocol.pdf)
 
-#### Background Information
+###### Background Information
 
 What websites did you use to plan out your trip?
 - This question was meant to get a better understanding of who Budget Travel’s top competitors are. 
@@ -29,7 +29,7 @@ What were some frustrations you had with the process?
 - This question is to see what part of the trip planning process is the most frustrating for participants. 
 - This will help the UX team find ways to improve the user’s experience and know what should be avoided. 
 
-#### Debrief Questions
+###### Debrief Questions
 
 Overall, what did you like most about [Budget Travel]?
 - This question aims to find out what participants liked the most about Budget Travel. 
@@ -53,11 +53,11 @@ Any other comments or thoughts?
 - Perhaps the participants have something to say that was not covered by the previous questions
 
 
-### Usability Testing:
+#### Usability Testing:
 
 Our Usability test or main objectives were to make Budget Travel users have a memorable experience that differs from other vacation planning websites. Our usability testing was designed to focus on our user interaction, preferences, and expectations. By understanding the needs of our diverse user base, encompassing individuals with varied budget constraints, travel experiences, technological proficiency, and distinct travel motivations, we sought to enhance the user journey through Budget Travel's interface. We decided to focus on some specific screening.
 
-#### Screening
+##### Screening
 People who are a good fit:
 
 * People who have a strict budget
@@ -73,14 +73,14 @@ People who are a good fit:
 
 We also decided to use the Think-aloud protocol in our Unit testing to provide us a better guidance on what the user is thinking and how they move through the application to be able to figure out where they struggle to move to the next step that causes them not to finish the tasks. 
 
-##### - Think-aloud protocol
+###### - Think-aloud protocol
 * By having a user verbally go through the steps they take, they may give information that they wouldn’t otherwise think about
 * Such as their expectations
 * What they are looking for (“I want to find the filter button”)
 * Their reasonings (“I want to edit my trip, so I’m going to my profile to see my recent history.”)
 
 
-### Prototypes:
+#### Prototypes:
 
 *[LINK to Prototype PDF](../Prototype/BudgetTravelPrototype.pdf)
 
@@ -88,17 +88,17 @@ We also decided to use the Think-aloud protocol in our Unit testing to provide u
 
 Our Protocol was created to follow 3 different tasks. We made our prototypes to be interactive to allow the user to click and imagine what they were using for the finished product. For the usability test, we also asked the participants to "Think Aloud" to give us an idea of what they are thinking when interacting with the prototype and where they get confused or stuck.
 
-#### Task 1
+##### Task 1
 We would like you to imagine you already have an account created with us so you log in to your account. Your family wants to plan a road trip to Disneyland Adventure in Los Angeles. So you create a new Road Trip To Disney and you have a certain amount of money saved for the trip but on your drive there you want to make some stops to rest, eat, and visit. After you add your budget and you finished make sure you save all of your Road Trip information. Remember to speak out loud and walk me through how you would create that new trip to Disneyland with your family with a certain budget and how you choose your selected stops.
 
 For **Task 1** what we were looking for was to see how the user moved through the application to be able to complete and create a new Road Trip add a Budget, add a final destination, and be able to add certain stops to their Road Trip.
 
-#### Task 2
+##### Task 2
 We would like you to now go into the saved trips you have in your account you want to change the number of people that are going and you also want to change the budget after adding more people. You also want to change your destination by choosing a different endpoint and then change or keep your same stops. We would also like you to speak out loud and walk me through the ways you move through the prototype to accomplish the task.
 
 For **Task 2** we wanted to see the user use the editing tools where they could change any saved trip whether it's changing their Budget, trip title, people traveling, end destination, and stops.
 
-#### Task 3
+##### Task 3
 We would like you to log out of your account and act like you forgot your password. Speak out loud and walk me through the ways you move through the prototype to accomplish the task.
 
 For **Task 3** we wanted to see the users interact with the forgot password function to see how they might struggle if they were ever needed to recover their account when they forgot their password.
