@@ -8,7 +8,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Pilot Test
 
-###Protocol
+### Protocol
 
 *[LINK to Protocol PDF](../Protocol/BudgetTravelx17FinalProtocol.pdf)
 
