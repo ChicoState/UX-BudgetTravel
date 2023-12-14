@@ -65,10 +65,8 @@ After running the **Usability Tests** we got feedback from (n = 6) participants 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. This section includes the new design recommendations based on the latest user insights. !!!
-
-Recommendations from participants who were not in the prototype:
+We found that many of our pilot testers said that our design was straightforward and followed traditional layouts making it very learnable and effective. In conclusion, our prototype is learnable and effective to those who have had experience with technology. It is recommended that we find users that are more diverse in background  rather than strictly usability engineering Chico State students.
 
 ## Caveats
 
-!!! Considerations and/or limitations to your chosen methods and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our limitations would be that we do not have a variety of demographics due to the fact that we were doing pilot testing with other students of California State University, Chico within the Usability Engineering class. We believe that everyone in the class had some experience or exposure to electronics or technology making our prototype accessible only to those with those experiences.
