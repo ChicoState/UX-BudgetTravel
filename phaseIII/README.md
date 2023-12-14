@@ -38,7 +38,7 @@ We also decided to use the Think-aloud protocol in our Unit testing to provide u
 
 ### Prototypes:
 
-*[Link to Prototype PDF](Prototype/BudgetTravelPrototype.pdf/)
+*[Link to Prototype PDF](UX-BudgetTravel/Prototype/BudgetTravelPrototype.pdf)
 
 *[LINK to Interactive Prototype](https://xd.adobe.com/view/912662bb-de32-45a1-afa1-6435e6fdd1eb-c475/?fullscreen&hints=off)
 
