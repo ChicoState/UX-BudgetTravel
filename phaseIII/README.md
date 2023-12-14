@@ -63,6 +63,15 @@ For **Task 3** we wanted to see the users interact with the forgot password func
 
 ## Findings
 
+We asked the participants a few questions about their traveling tendencies, and we learned that some of them like to plan trips based on their budgets and specific activities. Additionally, some expressed that planning a trip can be tedious due to bookings for flights/hotels/etc being on different websites, thereby creating confusion and problems such as schedules/dates not aligning properly. 
+As we concluded the usability tests, we asked a few closing questions. Participants were asked about their experience with Budget Travel and its various features. We learned the following:
+
+Likes:
+A few participants expressed an interest in the recommended “Stops” along the way to their destination, as well as the map that allows the user to get a visual understanding of the distance from their stops to their final destination.
+
+Dislikes:
+Some participants recommended that editing a Road Trip should have an option to change specific parts of the trip. Participants expressed that having to click through the different options to get to the one they want to change, is inefficient.
+
 After running the **Usability Tests** we got feedback from (n = 6) participants with a rating of how difficult each task was 1 being difficult and 5 being easy. When gathering all of the ratings given by each participant we were able to insert them into a graph that allowed us to see the ratings from each participant for all of the 3 tasks with all of the participants giving them a rating of 5. We were happy with our results being able to see that all of the participants didn't struggle in a single task and were satisfied with the prototype.  
 
 <img src="https://github.com/ChicoState/UX-BudgetTravel/assets/111912181/c0bdebf2-d849-49cf-aff2-80f66be94c17" alt="graph" width="400" height="300">
