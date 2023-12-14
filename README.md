@@ -81,13 +81,13 @@ Budget Travel is created to be an easy-to-use and easy-to-understand application
   - Creating/Editing Trips
   - Road Trip Planning
 
-- <u>Pilot Test</u>
+- A <u>Pilot Test</u> was conducted within the UX team to test run the prototypes. This helped the team get comfortable with how to lead a usability test with participants outside of the Budget Travel UX team.
 
-- <u>Usability Testing</u>
+- <u>Usability Tests</u> were done with six participants, who were asked a few questions relating to their travel habits and then given three tasks to complete. Upon the completion of each task, the participants were asked to rate their difficulty. Once all tasks were completed, the participants were given a few closing questions about their experience with Budget Travel and its features. The usability tests offered insightful feedback about the app's design, layout, and ease of use. The UX team can use the participant's feedback and responses to improve Budget Travel and the users' experience.
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
+<!-- * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* !!!as an executive would understand.!!! -->
 
 [Full phase III report](phaseIII/)
