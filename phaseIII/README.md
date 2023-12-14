@@ -8,7 +8,7 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 ### Pilot Test
 
-*[LINK to Protocol](../Protocol/BudgetTravelx17FinalProtocol.pdf)
+*[LINK to Protocol PDF](../Protocol/BudgetTravelx17FinalProtocol.pdf)
 
 ### Usability Testing:
 
@@ -60,7 +60,7 @@ We would like you to log out of your account and act like you forgot your passwo
 
 For **Task 3** we wanted to see the users interact with the forgot password function to see how they might struggle if they were ever needed to recover their account when they forgot their password.
 
-*[LINK to our Spreadsheet](https://docs.google.com/spreadsheets/d/1QYqLmSUBRmI_H3b12fXRkaMhqszQXaem5O1Rmha35hU/edit?usp=sharing)
+*[LINK to our Spreadsheet PDF](../Spreadsheet/BudgetTravel_UXSheets.pdf)
 
 ## Findings
 
