@@ -10,6 +10,49 @@ Budget Travel aims to make a simple and efficient road trip planning process for
 
 *[LINK to Protocol PDF](../Protocol/BudgetTravelx17FinalProtocol.pdf)
 
+
+Protocol
+
+<b>Background Information</b>
+
+What websites did you use to plan out your trip?
+- This question was meant to get a better understanding of who Budget Travel’s top competitors are. 
+- It also helps to see how involved the participants like to be when planning a trip.
+
+What were your priorities?
+- This question was posed to see what is most important to participants when they are planning a trip. 
+- The responses to this question will help the UX team understand what features may be useful to users
+
+What were some things you liked during your trip planning process?
+- The responses to this question will be useful for determining how to make a satisfying and memorable experience for Budget Travel’s users. 
+
+What were some frustrations you had with the process?
+- This question is to see what part of the trip planning process is the most frustrating for participants. 
+- This will help the UX team find ways to improve the user’s experience and know what should be avoided. 
+
+<b>Debrief Questions</b>
+Overall, what did you like most about [Budget Travel]?
+- This question aims to find out what participants liked the most about Budget Travel. 
+- This can help the UX team make Budget Travel memorable and attract more users.
+
+What did you dislike the most about it?
+- This question is to get suggestions on how Budget Travel can be improved. 
+- Ideally, participants will answer honestly and give feedback on which tasks they struggled with, or features they found hard to use. 
+
+Are there any additional features you would like for it to have?
+- This will help the UX team have a better understanding of possible users and their needs
+- This is where participants can give suggestions on how Budget Travel can be improved
+
+Did you see some new features that were very helpful?
+- This question is posed to users to see what feature stood out the most to them
+- The responses to this question can help the UX team understand what features should be the “main focus” or “selling point” of Budget Travel
+  - I.e something that helps the app stand out amongst competitors
+
+Any other comments or thoughts?
+- This is where participants can voice their thoughts or any lingering questions
+- Perhaps the participants have something to say that was not covered by the previous questions
+
+
 ### Usability Testing:
 
 Our Usability test or main objectives were to make Budget Travel users have a memorable experience that differs from other vacation planning websites. Our usability testing was designed to focus on our user interaction, preferences, and expectations. By understanding the needs of our diverse user base, encompassing individuals with varied budget constraints, travel experiences, technological proficiency, and distinct travel motivations, we sought to enhance the user journey through Budget Travel's interface. We decided to focus on some specific screening.
