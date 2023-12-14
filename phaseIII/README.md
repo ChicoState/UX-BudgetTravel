@@ -40,7 +40,7 @@ We also decided to use the Think-aloud protocol in our Unit testing to provide u
 
 *[Link to Prototype PDF]()
 
-*[LINK to Interactive Prototype](Prototype/README.md/)
+*[LINK to Interactive Prototype](https://xd.adobe.com/view/912662bb-de32-45a1-afa1-6435e6fdd1eb-c475/?fullscreen&hints=off)
 
 Our Protocol was created to follow 3 different tasks. We made our prototypes to be interactive to allow the user to click and imagine what they were using for the finished product. For the usability test, we also asked the participants to "Think Aloud" to give us an idea of what they are thinking when interacting with the prototype and where they get confused or stuck.
 
