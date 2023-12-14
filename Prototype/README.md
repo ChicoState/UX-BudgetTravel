@@ -4,4 +4,4 @@ This is our Prototype for Budget Travel you can click the link and try it yourse
 
 [Budget Travel Interactive Prototype](https://xd.adobe.com/view/912662bb-de32-45a1-afa1-6435e6fdd1eb-c475/?fullscreen&hints=off)
 
-[Budget Travel PDF Prototype](Prototype/BudgetTravelPrototype.pdf)
+[Budget Travel PDF Prototype](BudgetTravelPrototype.pdf)
