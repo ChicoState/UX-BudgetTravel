@@ -38,6 +38,10 @@ We also decided to use the Think-aloud protocol in our Unit testing to provide u
 
 ### Prototypes:
 
+*[Link to Prototype PDF]()
+
+*[LINK to Interactive Prototype](Prototype/)
+
 Our Protocol was created to follow 3 different tasks. We made our prototypes to be interactive to allow the user to click and imagine what they were using for the finished product. For the usability test, we also asked the participants to "Think Aloud" to give us an idea of what they are thinking when interacting with the prototype and where they get confused or stuck.
 
 #### Task 1
